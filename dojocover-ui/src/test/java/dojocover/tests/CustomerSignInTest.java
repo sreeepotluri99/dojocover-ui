@@ -34,6 +34,7 @@ public class CustomerSignInTest extends Base{
 		signin.verifyURL();
 		signin.verifyWelcomeMessage("TestUser");
 		signin.signOut();
+		//Customer sign in code
 		
 	}	
 	
